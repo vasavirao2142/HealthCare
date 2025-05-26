@@ -1,0 +1,15 @@
+.main-container {
+  display: flex;
+  justify-content: space-between;
+  overflow-x: scroll;
+
+}
+
+
+@media (min-width:600px) {
+  
+  .main-container{
+    width: 100%;
+  }
+}
+

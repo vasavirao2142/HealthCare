@@ -1,0 +1,51 @@
+[
+  {
+    "day": "Mon",
+    "date": "25",
+    "Interval1": "10.00",
+    "Interval2": "12.00",
+    "Interval3": "14:00"
+  },
+  {
+    "day": "Tues",
+    "date": "26",
+    "Interval1": "-",
+    "Interval2": "16.00",
+    "Interval3": "18:00"
+  },
+  {
+    "day": "Wed",
+    "date": "27",
+    "Interval1": "10.00",
+    "Interval2": "-",
+    "Interval3": "14:00"
+  },
+  {
+    "day": "Thurs",
+    "date": "28",
+    "Interval1": "13.00",
+    "Interval2": "15.00",
+    "Interval3": "17:00"
+  },
+  {
+    "day": "Fri",
+    "date": "29",
+    "Interval1": "15.00",
+    "Interval2": "16.00",
+    "Interval3": "17:00"
+  },
+  {
+    "day": "Sat",
+    "date": "30",
+    "Interval1": "09.00",
+    "Interval2": "10.00",
+    "Interval3": "12:00"
+  },
+  {
+    "day": "Sun",
+    "date": "31",
+    "Interval1": "08.00",
+    "Interval2": "10.00",
+    "Interval3": "12:00"
+  }
+]

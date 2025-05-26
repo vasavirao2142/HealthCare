@@ -10,10 +10,11 @@
   
   .sidebar {
     width: 240px;
-    background-color: #1f2937;
+    background-color: #f5f8ff;
     color: white;
     padding: 20px;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    border-radius:12px ;
   }
   
   .main-section {
@@ -33,9 +34,8 @@
   }
   
   .main-content {
-    flex: 1;
     padding: 24px;
-    overflow-y: auto;
-    background-color: #f9fafb;
+    background-color: #ffffff;
+    overflow-y: scroll;
   }
   

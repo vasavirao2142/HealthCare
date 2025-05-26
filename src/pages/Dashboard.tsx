@@ -1,15 +1,14 @@
 
+import Calendar from '../components/Calendar'
+import DashboardOverview from '../components/DashboardOverview'
 
-
-
+import '../styles/dashboard.css'
 const Dashboard = () => {
   return (
-    <>
-   
-   
-      <div>This is the main container of the dashboard.</div>
-  
-    </>
+    <div className="main-container">
+      <DashboardOverview />
+      <Calendar />
+    </div >
   )
 }
 
